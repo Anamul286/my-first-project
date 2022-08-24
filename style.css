@@ -1,0 +1,12 @@
+p {
+  background-color: navy;
+}
+
+.linked_button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 3px;
+  padding: 5px 5px;
+  color: white;
+  font-weight: 700;
+}
